@@ -9,3 +9,5 @@ I have learned a lot of things in this project so far. I am currently trying to 
 (3) Learned how to take the movement in Unity for the tank to the next level (Coding this for really hard)
 
 (4) Learning how to add multiplayer to the game.
+
+If you want to use the Assets, create a new project on Unity and paste the files in there and it should work.
